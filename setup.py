@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="socks5",
-    version="0.2.1+dev",
+    version="0.2.1+dev.chevah1",
     description="SOCKSv5 bring your own io library",
     long_description="""
 Socks5 bring your own io library, inspired by h11 and hyper-h2.
